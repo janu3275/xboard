@@ -1,0 +1,39 @@
+
+.saath{
+    width: 75%;
+    height: 80%;
+    margin: 2rem auto;
+}
+.card-img-top{
+    height: 38rem;
+    object-fit: cover;
+}
+.card-title{
+  color: black;
+  
+}
+    
+.card-text{
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+.se{
+    text-decoration: none;
+    color: rgba(27, 26, 26, 0.856);
+}
+.h4{
+    color:rgba(7, 6, 6, 0.308);
+}
+.sat{
+    width: 82%;
+    margin: auto;
+}
+/* .dir{
+    background-color: grey;
+    width: 5%;
+} */
+
+
+ 
